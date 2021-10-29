@@ -1,2 +1,2 @@
 # CS-GO-Files
-Lome's config
+Lome's CS:GO config for public use c:
