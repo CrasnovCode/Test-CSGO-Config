@@ -1,6 +1,5 @@
 # Lome's CS:GO Files
-Lome's CS:GO config for public use & easy modification.
-The aim of this config is to improve the user experience.
+My personal CS:GO config for public use.
 
 **Please check the CFGs before installing them!**
 
